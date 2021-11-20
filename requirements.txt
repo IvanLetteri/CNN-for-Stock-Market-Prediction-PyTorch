@@ -1,1 +1,2 @@
 mpl-finance
+pandas-datareader
